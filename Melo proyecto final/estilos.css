@@ -1,0 +1,16 @@
+.postres {
+    display: flex;   
+    flex-wrap: wrap;
+    gap: 50px;
+    
+}
+img{
+    height: 300px;
+    width: 300px;
+}
+article{
+    width: 450px;
+    height: 450px;
+    background-color: rgb(171, 147, 182);
+    border-radius: 40px;
+}
