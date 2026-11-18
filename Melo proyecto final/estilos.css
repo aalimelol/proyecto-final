@@ -11,6 +11,9 @@ h1{
 main {
     background-color: rgb(255, 248, 231);
 }
+footer{
+    background-color: rgb(255, 224, 138);
+}
 
 .postres {
     display: flex;
@@ -46,5 +49,10 @@ article {
 .imginicio{
     height: 700px;
     width: 1400px;
+    
+}
+.imgnos{
+    height: 350px;
+    width: 500px;
     
 }
